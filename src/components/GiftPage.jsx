@@ -145,10 +145,10 @@ export default function GiftPage() {
                 <div className="absolute w-64 h-64 mx-auto inset-0 bg-gradient-to-r from-pink-400/30 to-purple-400/30 rounded-full blur-2xl scale-110"></div>
 
                 <img
-                  src="/gifs/teddy-giving-flower.gif"
-                  alt="Teddy giving flower"
-                  className="w-52 mx-auto relative z-10 drop-shadow-2xl"
-                />
+  src="/images/1.jpg"
+  alt="Teddy giving flower"
+  className="w-52 mx-auto relative z-10"
+/>
 
                 {/* Floating elements around teddy */}
                 <motion.div
