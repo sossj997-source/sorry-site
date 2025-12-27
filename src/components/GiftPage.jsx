@@ -144,11 +144,11 @@ export default function GiftPage() {
                 {/* Beautiful aura around flower teddy */}
                 <div className="absolute w-64 h-64 mx-auto inset-0 bg-gradient-to-r from-pink-400/30 to-purple-400/30 rounded-full blur-2xl scale-110"></div>
 
-                <img
+ <img
   src="/images/1.jpg"
-  alt="Teddy giving flower"
+  alt="My photo"
   className="w-52 mx-auto relative z-10"
-/>
+ />
 
                 {/* Floating elements around teddy */}
                 <motion.div
